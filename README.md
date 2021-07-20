@@ -11,10 +11,12 @@
     <a href="https://instagram.com/patyspro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto: patyspro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       
-
-<h2> Github Stats </h2> 
-<a href="https://github.com/patyspro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patyspro&layout=compact&theme=tokyonight" /></a>
-<br/>
+<h2> Github Stats: </h2> 
+ <div>
+  <a href="https://github.com/patyspro">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=patyspro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patyspro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
  
