@@ -16,7 +16,7 @@
      </div>
      
 ## Skills :nerd_face:
-<p align="auto" display:"flex-column">
+<p align="auto" grid-template-columns="repeat(2,1,fr)">
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
